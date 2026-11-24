@@ -1,0 +1,6 @@
+# Reference only; export these as environment variables in Termux.
+# Never put a real token in this file or commit it to GitHub.
+host = "127.0.0.1"
+port = 8765
+workspace = "~/clanker-workspace"
+token_env = "CLANKER_BRIDGE_TOKEN"
